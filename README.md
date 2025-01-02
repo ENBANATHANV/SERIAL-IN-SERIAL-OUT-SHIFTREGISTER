@@ -1,6 +1,6 @@
 ### NAME : V.ENBANATHAN
 ### REG NO : 24001750
-# EXPERIMENT-6 : SERIAL IN SERIAL OUT SHIFT REGISTER
+# EXPERIMENT-6 : IMPLEMENTATION OF SERIAL IN SERIAL OUT SHIFT REGISTER
 # AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
