@@ -74,4 +74,4 @@ endmodule
 
 
 # RESULTS
-Thus SISO Shift Register is implemented using verilog and validated using their waveform.
+Thus SISO Shift Register is implemented using verilog and validated using their waveform successfully.
